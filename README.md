@@ -1,7 +1,9 @@
 ### 안녕하세요 이원배입니다.
+<br/>
 <p>📫 How to reach me ...</p>
 <p></p>Email : judiking1@naver.com</p>
 <p></p>KakaoTalk ID: 201112375</p>
+<br/>
 
 <!--
 **judiking1/judiking1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
