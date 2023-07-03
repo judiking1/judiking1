@@ -3,7 +3,7 @@
 <p>📫 How to reach me ...</p>
 <p>Email : judiking1@naver.com</p>
 <p>KakaoTalk ID: 201112375</p>
-<p>Portfolio : <a href="wondawon.modoo.at">wondawon.modoo.at</a></p>
+<p>Portfolio : <a href="https://wondawon.modoo.at">wondawon.modoo.at</a></p>
 <br/>
 
 <!--
