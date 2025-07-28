@@ -6,6 +6,7 @@
 <p>Portfolio : <a href="https://wondawon.modoo.at">wondawon.modoo.at</a></p>
 <br/>
 <p>이젠아카데미 웹개발자 풀스택 교육과정 수료(22.12 - 23.07)</p>
+<p>반도체공장 솔루션 업체 프론트엔드 개발자(23.10 - 현재)</p>
 <!--
 **judiking1/judiking1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
