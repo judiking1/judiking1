@@ -1,4 +1,4 @@
-### 안녕하세요 웹 개발자 지망생 이원배입니다.
+### 안녕하세요 프론트엔드 개발자 이원배입니다.
 <br/>
 <p>📫 How to reach me ...</p>
 <p>Email : judiking1@naver.com</p>
